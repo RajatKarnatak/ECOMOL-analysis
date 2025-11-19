@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon May  8 19:31:40 2023
-@author: CHATGPT using original function by me
 """
 import numpy as np
 def vankrevelan(data_array):
