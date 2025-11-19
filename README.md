@@ -1,7 +1,7 @@
 # ECOMOL-analysis
 Chemical species preprocessing and analysis scripts
 
-# Time-Series FT-MS Clustering and Deep-Sea DOM Comparison
+# FT-MS Time Series Data Clustering and Deep-Sea DOM Comparison
 
 This repository contains analysis code (currently in `First_work.ipynb`) for **time-series FT-MS data from planktotron experiments**.
 
