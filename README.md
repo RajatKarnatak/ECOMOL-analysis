@@ -3,7 +3,7 @@ Chemical species preprocessing and analysis scripts
 
 # FT-MS Time Series Data Clustering and Deep-Sea DOM Comparison
 
-This repository contains analysis code (currently in `First_work.ipynb`) for **time-series FT-MS data from planktotron experiments**.
+This repository contains analysis code (currently in `First_work.ipynb`) for **FT-MS time-series data from planktotron experiments**.
 
 The workflow:
 
