@@ -9,7 +9,7 @@ The workflow:
 
 - Clusters molecular formulas based on their temporal behaviour.
 - Filters noisy / rarely occurring formulas.
-- Compares experimental clusters to a deep-sea DOM reference (“Nelha”).
+- Compares experimental clusters to a deep-sea DOM reference.
 - Characterizes chemical composition (Van Krevelen, O-parameters).
 - Identifies potentially labile species and tracks diversity over time.
 
